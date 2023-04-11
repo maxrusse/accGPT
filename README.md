@@ -1,6 +1,6 @@
 # AI Chatbots for Imaging Recommendations Aligned with ACR Guidelines
 
-### This project demonstrates the use of AI chatbots to provide imaging recommendations aligned with ACR (American College of Radiology) guidelines. It combines the outputs of different AI models to generate more precise and reliable recommendations.
+### This project demonstrates the use of AI chatbots to provide imaging recommendations aligned with ACR (American College of Radiology) guidelines. It combines the outputs of different AI models to compare recommendations.
 
 ### You can directly use the Jupyter notebook file provided in the project. The notebook contains all the necessary code and comments to help you understand and execute the project.
 
