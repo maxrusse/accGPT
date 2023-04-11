@@ -26,6 +26,9 @@ GPT-4: Provides a response based on the GPT-4 model.
 The responses from all models are combined and displayed in the interface.
 
 
+### Screenshot of the Chatbot user interface with example case
+
+![Screenshot of the Chatbot user interface with example case](https://github.com/maxrusse/accGPT/blob/b11a3c9f3d652187d74181afa4758ad6497234a4/example.jpg)
 
 
 
@@ -54,7 +57,5 @@ if __name__ == "__main__":
     main()
 ```
 
-
-![Screenshot of the user interface with example Case](https://github.com/maxrusse/accGPT/blob/b11a3c9f3d652187d74181afa4758ad6497234a4/example.jpg)
 
 
