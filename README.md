@@ -54,3 +54,7 @@ if __name__ == "__main__":
     main()
 ```
 
+
+![Screenshot of the user interface with example Case](https://github.com/maxrusse/accGPT/blob/b11a3c9f3d652187d74181afa4758ad6497234a4/example.jpg)
+
+
