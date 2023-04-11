@@ -52,10 +52,6 @@ FOLDER_PATH = "ACR"
 ```
 
 Run the script to set up the index and launch the interface.
-```
-if __name__ == "__main__":
-    main()
-```
 
 
 
