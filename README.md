@@ -17,7 +17,7 @@
 By using the Jupyter notebook, you can easily modify, extend, or experiment with the code as needed.
 
 
-###How It Works
+### How It Works
 The script uses a combination of AI models to generate imaging recommendations based on the provided case information:
 
 accGPT: Queries an index created from ACR guidelines and gets the response from the top 3 text nodes using GPT-3.5-Turbo.
@@ -26,7 +26,10 @@ GPT-4: Provides a response based on the GPT-4 model.
 The responses from all models are combined and displayed in the interface.
 
 
-Alternative using the python script by cloning the project:
+
+
+
+### Alternative using the python script by cloning the project:
 
 Dependencies
 To set up the project, you need to install the following dependencies:
