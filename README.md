@@ -53,5 +53,10 @@ FOLDER_PATH = "ACR"
 
 Run the script to set up the index and launch the interface.
 
+> Link to publication: https://pubs.rsna.org/doi/10.1148/radiol.230970
+>
+> A Context-based Chatbot Surpasses Radiologists and Generic ChatGPT in Following the ACR Appropriateness Guidelines
+> Alexander Rau, Stephan Rau, Daniela Zöller, Anna Fink, Hien Tran, Caroline Wilpert, Johanna Nattenmüller, Jakob Neubauer, Fabian Bamberg, Marco Reisert, and Maximilian F. Russe
+> Radiology 2023 308:1
 
 
